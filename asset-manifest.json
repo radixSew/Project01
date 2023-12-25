@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radixSew/Project01/static/css/main.e468c962.css",
+    "main.js": "/radixSew/Project01/static/js/main.8f1f41d4.js",
+    "static/js/787.487eaba9.chunk.js": "/radixSew/Project01/static/js/787.487eaba9.chunk.js",
+    "index.html": "/radixSew/Project01/index.html",
+    "main.e468c962.css.map": "/radixSew/Project01/static/css/main.e468c962.css.map",
+    "main.8f1f41d4.js.map": "/radixSew/Project01/static/js/main.8f1f41d4.js.map",
+    "787.487eaba9.chunk.js.map": "/radixSew/Project01/static/js/787.487eaba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e468c962.css",
+    "static/js/main.8f1f41d4.js"
+  ]
+}
