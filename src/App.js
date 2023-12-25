@@ -8,7 +8,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<UsersView />} />
+        <Route path="/radixSew/Project01" element={<UsersView />} />
         <Route path="/user/:userId" element={<UserInfoView />} />
       </Routes>
     </Router>
